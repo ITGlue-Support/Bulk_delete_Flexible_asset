@@ -1,11 +1,15 @@
 # Bulk_delete_Flexible_asset
-You can use this PowerShell script to bulk Flexible asset from IT Glue instance
+You can use this PowerShell script to bulk Flexible assets from IT Glue instance
 
 Pre-requisites:
 
 You should be an Administrator You will need to generate an API Key Generate an API key and update the script with your API
 
-Deleted Flexible Asset can be restored from Activity logs, but this needs to be restored manually one at a time.
+Deleted Flexible Assets can be restored from Activity logs, but this needs to be restored manually one at a time.
+
+You can find the Flexible asset template ID by navigating to IT Glue > Admin > Flexible Asset Types > Select the template > Edit > You will see the ID in the URL
+
+![image](https://github.com/user-attachments/assets/3e59a2ed-a318-4464-aa38-5b97fe9e00e1)
 
 Disclaimer:
 
