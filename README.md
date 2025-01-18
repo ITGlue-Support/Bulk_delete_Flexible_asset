@@ -3,7 +3,7 @@ You can use this PowerShell script to bulk Flexible assets from IT Glue instance
 
 Pre-requisites:
 
-You should be an Administrator You will need to generate an API Key Generate an API key and update the script with your API
+You should be an Administrator. You will need to generate an API Key Generate an API key and update the script with your API
 
 Deleted Flexible Assets can be restored from Activity logs, but this needs to be restored manually one at a time.
 
